@@ -70,7 +70,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=gradient"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
         alt="einuvy" /></p>
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=einuvy&show_icons=true&locale=en&layout=pie&langs_count=7&theme=tokyonight"
