@@ -72,7 +72,7 @@
 ***
 
 <p>
-    <img align="left"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=einuvy&show_icons=true&locale=en&layout=pie&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
         alt="einuvy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
@@ -81,9 +81,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=einuvy&label=Profile%20views&color=0e75b6&style=flat"
-        alt="einuvy" /> </p>
+
  ***
+ 
 <div> 
     
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
@@ -91,7 +91,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=einuvy&label=Profile%20views&color=0e75b6&style=flat"
+        alt="einuvy" /> </p>
     
 </div>
         
