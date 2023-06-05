@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MindHubLA](https://mindhubweb.com/)
 
-- 🌱 I’m currently learning **Typescript, MongoDB, Express, Docker.**
+- 🌱 I’m currently learning **Typescript, MongoDB & Express.**
 
 - 💬 Ask me about **Java, Spring, Javascript, Vue.js, etc.**
 
