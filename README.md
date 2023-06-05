@@ -71,11 +71,13 @@
 
 ***
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
         alt="einuvy" /></p>
-    <img align="center"
+    <img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=einuvy&show_icons=true&locale=en&layout=pie&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
         alt="einuvy" /></p>
+
+***
 
 <p>&nbsp;
 
@@ -90,6 +92,7 @@
 
 ***
 
+<div>
 <h3 align="left">Other Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
@@ -103,10 +106,8 @@
 
 </p>
 
-***
-
-<h3 align="left">Learning...</h3>
-<p align="left">
+<h3 align="center">Learning...</h3>
+<p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
@@ -119,4 +120,5 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a>
+</div>
 </p>
