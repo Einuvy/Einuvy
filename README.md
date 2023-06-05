@@ -70,10 +70,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true"
         alt="einuvy" /></p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=einuvy&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=einuvy&show_icons=true&locale=en&layout=compact&langs_count=7&theme=tokyonight"
         alt="einuvy" /></p>
 
 <p>&nbsp;
