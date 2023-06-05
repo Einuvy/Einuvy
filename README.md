@@ -72,7 +72,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=einuvy&show_icons=true&locale=en"
         alt="einuvy" /></p>
-    <img align="left"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=einuvy&show_icons=true&locale=en&layout=compact"
         alt="einuvy" /></p>
 
