@@ -11,9 +11,9 @@
 ***
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/elias-medina-java/" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/elias-medina-full-stack/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="/in/elias-medina-java/" height="30" width="40" /></a>
+            alt="in/elias-medina-full-stack/" height="30" width="40" /></a>
     <a href="https://instagram.com/eniuvy" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="@einuvy" height="30" width="40" /></a>
