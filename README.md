@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elías Nicolás Medina Villalba (Einuvy)</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [MindHubLA](https://mindhubweb.com/)
+- 🔭 I’m currently working on [Connectis](https://www.connectis.tech/es/)
 
-- 🌱 I’m currently learning **Typescript y AWS.**
+- 🌱 I’m currently learning **AWS.**
 
 - 💬 Ask me about **Java, Spring, Javascript, Vue.js, etc.**
 
@@ -32,6 +32,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
@@ -115,9 +118,6 @@
 
 <h3 align="left">Learning...</h3>
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a>
