@@ -17,6 +17,8 @@
     <a href="https://instagram.com/eniuvy" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="@einuvy" height="30" width="40" /></a>
+<a href="https://discord.gg/361630757220909056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="361630757220909056" height="30" width="40" /></a>
+    <a href="https://gitlab.com/Einuvy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" height="30" width="40" /></a>
 </p>
 
 ***
