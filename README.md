@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elías Nicolás Medina Villalba (Einuvy)</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Connectis](https://www.connectis.tech/es/)
+- 🔭 I’m currently working on [Getronics](https://www.getronics.com/)
 
 - 🌱 I’m currently learning **AWS.**
 
